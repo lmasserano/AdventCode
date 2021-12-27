@@ -1,4 +1,4 @@
-z = open("train1.txt","r") 
+z = open("train01.txt","r") 
 a= z.read()
 z.close()
 
